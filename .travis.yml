@@ -1,5 +1,6 @@
 language: python
 os: linux
+arch: ppc64le
 python:
     - "3.5"
     - "3.6"
